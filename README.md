@@ -35,3 +35,7 @@ pip install scapy
 🤝 Contributing
 
 Pull requests are welcome! Feel free to improve the tool or add new features.
+
+Author    
+Benovin Joslin Vince Rejol   
+B.E. CSE (Cybersecurity)
